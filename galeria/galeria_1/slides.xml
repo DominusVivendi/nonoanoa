@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="480" movieHeight="360" startAutoPlay="true" backgroundColor="0x999999" decoration="res/jumping_line_1.swf" continuum="true" html_title="Title" loadStyle="Pie" framePath="res/frame06.png" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitle="true" photoTitleX="180" photoTitleY="320" photoTitleSize="15" photoTitleFont="Verdana" photoTitleColor="0x008080"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+        </global>
+        <control>
+            <basic_property showControl="true" showControlX="0" showControlY="325" showPreviousButton="res/previous01.gif" showPreviousButtonX="50" showStopButton="res/stop01.gif" showStopButtonX="97" showPlayButton="res/play01.gif" showPlayButtonX="97" showNextButton="res/next01.gif" showNextButtonX="124" showSoundButtonX="182"/>
+        </control>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="052807120449"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="052807120608"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="052807120624"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="0" phototime="2" url="" title="052807120725"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" comm="" transition="0" phototime="2" url="" title="052807120754"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" comm="" transition="0" phototime="2" url="" title="052807120843"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" comm="" transition="0" phototime="2" url="" title="052807120928"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" comm="" transition="0" phototime="2" url="" title="052807121644"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" comm="" transition="0" phototime="2" url="" title="052807121657"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" comm="" transition="0" phototime="2" url="" title="052807122457"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" comm="" transition="0" phototime="2" url="" title="052807122509"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" comm="" transition="0" phototime="2" url="" title="052807122529"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" comm="" transition="0" phototime="2" url="" title="052807122540"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" comm="" transition="0" phototime="2" url="" title="052807122549"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" comm="" transition="29" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker"/>
+    </album>
+</flash_parameters>

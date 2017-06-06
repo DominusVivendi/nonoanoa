@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="480" movieHeight="360" startAutoPlay="true" backgroundColor="0x999999" continuum="true" html_title="Title" loadStyle="Pie" framePath="res/frame25.png" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitle="false" photoTitleX="5" photoTitleY="25" photoTitleSize="20" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="12" bottomPadding="12" leftPadding="16" rightPadding="16"/>
+        </global>
+        <control>
+            <basic_property showControl="true" showControlX="-30" showControlY="340" showPreviousButton="res/previous08.png" showPreviousButtonX="50" showStopButton="res/stop08.png" showStopButtonX="90" showPlayButton="res/play08.png" showPlayButtonX="90" showNextButton="res/next08.png" showNextButtonX="124" showSoundButtonX="182"/>
+        </control>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0005"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0006"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0007"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0008"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0010"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0012"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0056"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0073"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" comm="" transition="0" phototime="2" url="" title="Motorola 0074"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" comm="" transition="29" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker"/>
+    </album>
+</flash_parameters>

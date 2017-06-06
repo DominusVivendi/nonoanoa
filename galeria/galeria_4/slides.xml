@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <golbal>
+            <basic_property movieWidth="480" movieHeight="380" html_title="Title" loadStyle="Pie" border="true" borderColor="0x333333" borderSize="1" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitleColor="0xff0000" backgroundColor="0xffffff"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="20" leftPadding="0" rightPadding="0"/>
+        </golbal>
+        <thumbnail>
+            <basic_property lineColor="0xffffff" numberColor="0xffffff" hovrColor="0xff0000" align="right"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="050807112213"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="050807112229"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="050807112454"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="0" phototime="2" url="" title="050807112512"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" comm="" transition="0" phototime="2" url="" title="050807144631"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" comm="" transition="0" phototime="2" url="" title="050807144800"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" comm="" transition="0" phototime="2" url="" title="050807144831"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" comm="" transition="0" phototime="2" url="" title="051007081849"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" comm="" transition="0" phototime="2" url="" title="051007081920"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" comm="" transition="0" phototime="2" url="" title="051007081937"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" comm="" transition="0" phototime="2" url="" title="051007082035"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" comm="" transition="0" phototime="2" url="" title="051007082106"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" comm="" transition="0" phototime="2" url="" title="051007102300"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" comm="" transition="0" phototime="2" url="" title="051007102342"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" comm="" transition="0" phototime="2" url="" title="051007103044"/>
+        <slide jpegURL="thumbs/t_0016.jpg" d_URL="slides/p_0016.jpg" comm="" transition="0" phototime="2" url="" title="051007121027"/>
+        <slide jpegURL="thumbs/t_0017.jpg" d_URL="slides/p_0017.jpg" comm="" transition="0" phototime="2" url="" title="051007121121"/>
+        <slide jpegURL="thumbs/t_0018.jpg" d_URL="slides/p_0018.jpg" comm="" transition="0" phototime="2" url="" title="051007121423"/>
+        <slide jpegURL="thumbs/t_0019.jpg" d_URL="slides/p_0019.jpg" comm="" transition="0" phototime="2" url="" title="051007121443"/>
+        <slide jpegURL="thumbs/t_0020.jpg" d_URL="slides/p_0020.jpg" comm="" transition="0" phototime="2" url="" title="051007121500"/>
+        <slide jpegURL="thumbs/t_0021.jpg" d_URL="slides/p_0021.jpg" comm="" transition="0" phototime="2" url="" title="051007121545"/>
+        <slide jpegURL="thumbs/t_0022.jpg" d_URL="slides/p_0022.jpg" comm="" transition="0" phototime="2" url="" title="051007122034"/>
+        <slide jpegURL="thumbs/t_0023.jpg" d_URL="slides/p_0023.jpg" comm="" transition="0" phototime="2" url="" title="051007122221"/>
+        <slide jpegURL="thumbs/t_0024.jpg" d_URL="slides/p_0024.jpg" comm="" transition="0" phototime="2" url="" title="051007122305"/>
+        <slide jpegURL="thumbs/t_0025.jpg" d_URL="slides/p_0025.jpg" comm="" transition="0" phototime="2" url="" title="051007122407"/>
+        <slide jpegURL="thumbs/t_0026.jpg" d_URL="slides/p_0026.jpg" comm="" transition="0" phototime="2" url="" title="051007122448"/>
+        <slide jpegURL="thumbs/t_0027.jpg" d_URL="slides/p_0027.jpg" comm="" transition="0" phototime="2" url="" title="051007122529"/>
+        <slide jpegURL="thumbs/t_0028.jpg" d_URL="slides/p_0028.jpg" comm="" transition="0" phototime="2" url="" title="051007122624"/>
+        <slide jpegURL="thumbs/t_0029.jpg" d_URL="slides/p_0029.jpg" comm="" transition="0" phototime="2" url="" title="051007122645"/>
+        <slide jpegURL="thumbs/t_0030.jpg" d_URL="slides/p_0030.jpg" comm="" transition="0" phototime="2" url="" title="051007122710"/>
+        <slide jpegURL="thumbs/t_0031.jpg" d_URL="slides/p_0031.jpg" comm="" transition="0" phototime="2" url="" title="051007122736"/>
+        <slide jpegURL="thumbs/t_0032.jpg" d_URL="slides/p_0032.jpg" comm="" transition="0" phototime="2" url="" title="051007122822"/>
+        <slide jpegURL="thumbs/t_0033.jpg" d_URL="slides/p_0033.jpg" comm="" transition="0" phototime="2" url="" title="051007122906"/>
+        <slide jpegURL="thumbs/t_0034.jpg" d_URL="slides/p_0034.jpg" comm="" transition="0" phototime="2" url="" title="051007123104"/>
+        <slide jpegURL="thumbs/t_0035.jpg" d_URL="slides/p_0035.jpg" comm="" transition="0" phototime="2" url="" title="051007123211"/>
+        <slide jpegURL="thumbs/t_0036.jpg" d_URL="slides/p_0036.jpg" comm="" transition="0" phototime="2" url="" title="052507081426"/>
+        <slide jpegURL="thumbs/t_0037.jpg" d_URL="slides/p_0037.jpg" comm="" transition="0" phototime="2" url="" title="052507082011"/>
+        <slide jpegURL="thumbs/t_0038.jpg" d_URL="slides/p_0038.jpg" comm="" transition="0" phototime="2" url="" title="052507114034"/>
+        <slide jpegURL="thumbs/t_0039.jpg" d_URL="slides/p_0039.jpg" comm="" transition="0" phototime="2" url="" title="052507114103"/>
+        <slide jpegURL="thumbs/t_0040.jpg" d_URL="slides/p_0040.jpg" comm="" transition="0" phototime="2" url="" title="053107113646"/>
+        <slide jpegURL="thumbs/t_0041.jpg" d_URL="slides/p_0041.jpg" comm="" transition="0" phototime="2" url="" title="053107113709"/>
+        <slide jpegURL="thumbs/t_0042.jpg" d_URL="slides/p_0042.jpg" comm="" transition="0" phototime="2" url="" title="053107113757"/>
+        <slide jpegURL="thumbs/t_0043.jpg" d_URL="slides/p_0043.jpg" comm="" transition="0" phototime="2" url="" title="0Imag000"/>
+        <slide jpegURL="thumbs/t_0044.jpg" d_URL="slides/p_0044.jpg" comm="" transition="0" phototime="2" url="" title="0Imag001"/>
+        <slide jpegURL="thumbs/t_0045.jpg" d_URL="slides/p_0045.jpg" comm="" transition="0" phototime="2" url="" title="0Imag002"/>
+        <slide jpegURL="thumbs/t_0046.jpg" d_URL="slides/p_0046.jpg" comm="" transition="29" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker"/>
+    </album>
+</flash_parameters>

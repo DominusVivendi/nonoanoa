@@ -1,0 +1,3 @@
+Senha para calculadora de médias versao 1.0
+calcmedias
+Clicar depois em "Somente Leitura".

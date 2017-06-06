@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <golbal>
+            <basic_property movieWidth="480" movieHeight="360" decoration="res/drop_water.swf" html_title="Title" loadStyle="Pie" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitle="false" photoTitleX="5" photoTitleY="5" photoTitleSize="15" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+        </golbal>
+        <thumbnail>
+            <basic_property showPrview="false" prviewWidth="100" prviewHeight="75" lineColor="0xffffff" numberColor="0xffffff" hovrColor="0x0000ff" prviewBorderColor="0xffffff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="092007092509"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="092007092235"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="092007092205"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="29" phototime="10" url="092007092301.3gp" title="Video"/>
+    </album>
+</flash_parameters>

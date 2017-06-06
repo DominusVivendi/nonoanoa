@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <golbal>
+            <basic_property movieWidth="480" movieHeight="360" html_title="Title" loadStyle="Pie" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitle="true" photoTitleX="5" photoTitleY="5" photoTitleSize="15" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+        </golbal>
+        <thumbnail>
+            <basic_property showPrview="true" prviewWidth="100" prviewHeight="75" lineColor="0x4b4b4b" numberColor="0x4b4b4b" hovrColor="0xffcc66" prviewBorderColor="0xffcc66"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="062907090653"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="062907090811"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="062907090913"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="0" phototime="2" url="" title="062907090948"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" comm="" transition="0" phototime="2" url="" title="062907091001"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" comm="" transition="0" phototime="2" url="" title="062907091012"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" comm="" transition="0" phototime="2" url="" title="062907091036"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" comm="" transition="0" phototime="2" url="" title="062907091215"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" comm="" transition="0" phototime="2" url="" title="062907091230"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" comm="" transition="0" phototime="2" url="" title="062907091638"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" comm="" transition="0" phototime="2" url="" title="062907091717"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" comm="" transition="0" phototime="2" url="" title="062907091746"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" comm="" transition="0" phototime="2" url="" title="062907114421"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" comm="" transition="0" phototime="2" url="" title="062907114438"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" comm="" transition="0" phototime="2" url="" title="062907211209"/>
+        <slide jpegURL="thumbs/t_0016.jpg" d_URL="slides/p_0016.jpg" comm="" transition="0" phototime="2" url="" title="062907211222"/>
+        <slide jpegURL="thumbs/t_0017.jpg" d_URL="slides/p_0017.jpg" comm="" transition="0" phototime="2" url="" title="bolo"/>
+        <slide jpegURL="thumbs/t_0018.jpg" d_URL="slides/p_0018.jpg" comm="" transition="0" phototime="2" url="" title="carol"/>
+        <slide jpegURL="thumbs/t_0019.jpg" d_URL="slides/p_0019.jpg" comm="" transition="0" phototime="2" url="" title="chafaris"/>
+        <slide jpegURL="thumbs/t_0020.jpg" d_URL="slides/p_0020.jpg" comm="" transition="0" phototime="2" url="" title="eu a bruna e carol"/>
+        <slide jpegURL="thumbs/t_0021.jpg" d_URL="slides/p_0021.jpg" comm="" transition="0" phototime="2" url="" title="eu a maryel e a sa"/>
+        <slide jpegURL="thumbs/t_0022.jpg" d_URL="slides/p_0022.jpg" comm="" transition="0" phototime="2" url="" title="eu e bruna (2)"/>
+        <slide jpegURL="thumbs/t_0023.jpg" d_URL="slides/p_0023.jpg" comm="" transition="0" phototime="2" url="" title="eu e sá (2)"/>
+        <slide jpegURL="thumbs/t_0024.jpg" d_URL="slides/p_0024.jpg" comm="" transition="0" phototime="2" url="" title="eu e sá (3)"/>
+        <slide jpegURL="thumbs/t_0025.jpg" d_URL="slides/p_0025.jpg" comm="" transition="0" phototime="2" url="" title="eu e sá"/>
+        <slide jpegURL="thumbs/t_0026.jpg" d_URL="slides/p_0026.jpg" comm="" transition="0" phototime="2" url="" title="eu sá e mye"/>
+        <slide jpegURL="thumbs/t_0027.jpg" d_URL="slides/p_0027.jpg" comm="" transition="0" phototime="2" url="" title="fotossintese"/>
+        <slide jpegURL="thumbs/t_0028.jpg" d_URL="slides/p_0028.jpg" comm="" transition="0" phototime="2" url="" title="galera"/>
+        <slide jpegURL="thumbs/t_0029.jpg" d_URL="slides/p_0029.jpg" comm="" transition="0" phototime="2" url="" title="meninas"/>
+        <slide jpegURL="thumbs/t_0030.jpg" d_URL="slides/p_0030.jpg" comm="" transition="0" phototime="2" url="" title="povão"/>
+        <slide jpegURL="thumbs/t_0031.jpg" d_URL="slides/p_0031.jpg" comm="" transition="0" phototime="2" url="" title="prisão"/>
+        <slide jpegURL="thumbs/t_0032.jpg" d_URL="slides/p_0032.jpg" comm="" transition="29" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker"/>
+    </album>
+</flash_parameters>

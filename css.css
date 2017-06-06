@@ -1,0 +1,76 @@
+@charset "utf-8";
+#principal {
+	margin: auto;
+	width: 700px;
+	background-color: #CCCCCC;
+	font-family: "Times New Roman", Times, serif;
+}
+#logo {
+	height: 80px;
+	width: 140px;
+	float: left;
+}
+#menu {
+	width: 560px;
+	float: right;
+	height: 45px;
+	padding-top: 35px;
+}
+#conteudo {
+	float: left;
+	width: 672px;
+	height: 350px;
+	font-family: "Bradley Hand ITC", "Times New Roman", Arial, Verdana;
+	padding: 10px;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: none;
+	border-left-style: double;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+	overflow: auto;
+}
+#rodape {
+	clear: both;
+	width: 692px;
+	text-align: center;
+	height: 20px;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: none;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+}
+.titulo {
+	font-size: 20px;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}

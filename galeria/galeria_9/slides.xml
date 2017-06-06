@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="480" movieHeight="360" startAutoPlay="true" backgroundColor="0x999999" decoration="res/jumping_line_1.swf" continuum="true" html_title="Title" loadStyle="Pie" framePath="res/frame04.png" waitMusicLoad="false" hideAdobeMenu="false"/>
+            <title_property photoTitle="true" photoTitleX="180" photoTitleY="330" photoTitleSize="15" photoTitleFont="Verdana" photoTitleColor="0x000000"/>
+            <music_property path="" stream="false" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+        </global>
+        <control>
+            <basic_property showControl="true" showControlX="0" showControlY="335" showPreviousButton="res/previous01.gif" showPreviousButtonX="50" showStopButton="res/stop01.gif" showStopButtonX="97" showPlayButton="res/play01.gif" showPlayButtonX="97" showNextButton="res/next01.gif" showNextButtonX="124" showSoundButtonX="182"/>
+        </control>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0061"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0062"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0063"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0064"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0066"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0067"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0072"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0079"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0080"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0081"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0082"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0083"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0091"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0092"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0093"/>
+        <slide jpegURL="thumbs/t_0016.jpg" d_URL="slides/p_0016.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0094"/>
+        <slide jpegURL="thumbs/t_0017.jpg" d_URL="slides/p_0017.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0095"/>
+        <slide jpegURL="thumbs/t_0018.jpg" d_URL="slides/p_0018.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0096"/>
+        <slide jpegURL="thumbs/t_0019.jpg" d_URL="slides/p_0019.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0097"/>
+        <slide jpegURL="thumbs/t_0020.jpg" d_URL="slides/p_0020.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0098"/>
+        <slide jpegURL="thumbs/t_0021.jpg" d_URL="slides/p_0021.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0099"/>
+        <slide jpegURL="thumbs/t_0022.jpg" d_URL="slides/p_0022.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0100"/>
+        <slide jpegURL="thumbs/t_0023.jpg" d_URL="slides/p_0023.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0101"/>
+        <slide jpegURL="thumbs/t_0024.jpg" d_URL="slides/p_0024.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0102"/>
+        <slide jpegURL="thumbs/t_0025.jpg" d_URL="slides/p_0025.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0103"/>
+        <slide jpegURL="thumbs/t_0026.jpg" d_URL="slides/p_0026.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0104"/>
+        <slide jpegURL="thumbs/t_0027.jpg" d_URL="slides/p_0027.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0105"/>
+        <slide jpegURL="thumbs/t_0028.jpg" d_URL="slides/p_0028.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0106"/>
+        <slide jpegURL="thumbs/t_0029.jpg" d_URL="slides/p_0029.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0107"/>
+        <slide jpegURL="thumbs/t_0030.jpg" d_URL="slides/p_0030.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0108"/>
+        <slide jpegURL="thumbs/t_0031.jpg" d_URL="slides/p_0031.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0109"/>
+        <slide jpegURL="thumbs/t_0032.jpg" d_URL="slides/p_0032.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0110"/>
+        <slide jpegURL="thumbs/t_0033.jpg" d_URL="slides/p_0033.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0111"/>
+        <slide jpegURL="thumbs/t_0034.jpg" d_URL="slides/p_0034.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0112"/>
+        <slide jpegURL="thumbs/t_0035.jpg" d_URL="slides/p_0035.jpg" comm="" transition="0" phototime="2" url="" title="CIMG0113"/>
+        <slide jpegURL="thumbs/t_0036.jpg" d_URL="slides/p_0036.jpg" comm="" transition="29" phototime="10" url="http://www.flash-slideshow-maker.com/" title="Powered by Flash Slideshow Maker"/>
+    </album>
+</flash_parameters>
